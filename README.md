@@ -2,6 +2,9 @@
 
 A full-featured t-shirt e-commerce store built with the T3 stack (Next.js, TypeScript, tRPC, Prisma, PostgreSQL, and Better Auth).
 
+## Demo
+https://github.com/user-attachments/assets/9471782d-f7a4-4d16-a0e8-c4c7ff3e1f6f
+
 ## 🚀 Features
 
 ### Core E-commerce Functionality
