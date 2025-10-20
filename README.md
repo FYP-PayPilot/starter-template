@@ -2,6 +2,9 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app` and customized with Better Auth for authentication.
 
+## Demo
+https://github.com/user-attachments/assets/dc859294-eebc-49ba-8705-6fd42f9346d3
+
 ## Tech Stack
 
 This project uses the following technologies:
